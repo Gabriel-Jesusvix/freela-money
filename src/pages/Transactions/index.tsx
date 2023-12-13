@@ -1,6 +1,6 @@
 import { Header } from "../../components/Header";
 import { Summary } from "../../components/Sumarry";
-import { SearchForm } from "./components/SearchForme";
+import { SearchForm } from "./components/SearchForm";
 import { PriceHighlight, TransactionsContainer, TransactionsTable } from "./styles";
 
 export function Transactions() {
@@ -17,7 +17,7 @@ export function Transactions() {
               <td width="50%">Desenvolvimento de site</td>
               <td>
                 <PriceHighlight variant="income">
-                  R$ 12.000,00
+                  R$ 12.100,00
                 </PriceHighlight>
               </td>
               <td>Venda</td>
