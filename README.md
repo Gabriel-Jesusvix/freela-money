@@ -28,4 +28,4 @@
 
 ## ScreenShots / Movie
 
-![Freela Money](https://github.com/Gabriel-Jesusvix/freela-money/assets/62946928/6b7d20dd-1099-4a39-a36f-be7df2d91280)
+![Freela Money]![Freela](https://github.com/Gabriel-Jesusvix/freelamoney.github.io/assets/62946928/2bb86a03-2200-49a8-b96a-4b46181cc5b8)
