@@ -1,36 +1,20 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "description": "Desenvolvimento de site",
+      "description": "Evento 1",
+      "price": 350,
+      "category": "Freelancer Grupo x",
       "type": "income",
-      "category": "Venda",
-      "price": 14000,
-      "createdAt": "2022-07-29T19:36:44.505Z"
+      "createdAt": "2023-12-15T02:57:44.393Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "description": "Hambúrguer",
-      "type": "outcome",
+      "description": "Lanche",
+      "price": 46,
       "category": "Alimentação",
-      "price": 50,
-      "createdAt": "2022-07-29T19:30:44.505Z"
-    },
-    {
-      "id": 3,
-      "description": "Curso",
       "type": "outcome",
-      "category": "Educação",
-      "price": 2997,
-      "createdAt": "2022-07-29T19:30:44.505Z"
-    },
-    {
-      "description": "Desenvolvimento de App",
-      "price": 10000,
-      "category": "Venda",
-      "type": "income",
-      "createdAt": "2023-12-13T21:21:53.163Z",
-      "id": 4
+      "createdAt": "2023-12-15T02:58:12.333Z",
+      "id": 2
     }
   ]
 }

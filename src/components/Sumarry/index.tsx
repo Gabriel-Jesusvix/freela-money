@@ -12,7 +12,7 @@ export function Summary() {
           <span>Entradas</span>
           <ArrowCircleUp size={32} color="#00b37e" />
         </header>
-
+        
         <strong>{priceFormatter.format(summary.income)}</strong>
       </SummaryCard>
 
